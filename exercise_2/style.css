@@ -4,14 +4,10 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
-/* parent */
-
 .row {
   display: flex;
   line-height: 1.68;
 }
-
-/* children */
 
 .column {
   padding: 10px 20px;
