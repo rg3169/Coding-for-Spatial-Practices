@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+.title {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    font-family: Roboto;
+}    
+
+.name {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    font-family: Roboto;
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+    font-style: italic;
+    font-family: Roboto;
+    padding: 20px;
+    background-color: rgb(241, 235, 235);
+}
